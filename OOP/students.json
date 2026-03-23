@@ -1,0 +1,1616 @@
+[
+  {
+    "year": 3,
+    "gpa": 2.7857142857142856,
+    "advisorId": "ADV001",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "DC",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "CB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "CC",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "CC",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "BB",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119001",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "DC",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 2.7857142857142856,
+      "totalCreditsCompleted": 35,
+      "totalCreditsAttempted": 35,
+      "academicStanding": "Satisfactory"
+    },
+    "userId": "150119001",
+    "name": "John Smith",
+    "username": "john.smith",
+    "password": "student1"
+  },
+  {
+    "year": 3,
+    "gpa": 3.0121951219512195,
+    "advisorId": "ADV001",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "CC",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "AA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "CC",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2043",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "ENG1001",
+        "grade": "CC",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "BB",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119002",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "CC",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "CC",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2043",
+          "courseName": "Software Engineering Principles",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "ENG1001",
+          "courseName": "Technical Writing",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 3.0121951219512195,
+      "totalCreditsCompleted": 41,
+      "totalCreditsAttempted": 41,
+      "academicStanding": "Good Standing"
+    },
+    "userId": "150119002",
+    "name": "Jane Johnson",
+    "username": "jane.johnson",
+    "password": "student2"
+  },
+  {
+    "year": 3,
+    "gpa": 2.9285714285714284,
+    "advisorId": "ADV001",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "CB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "CB",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "BB",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "AA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "CB",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119003",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 2.9285714285714284,
+      "totalCreditsCompleted": 35,
+      "totalCreditsAttempted": 35,
+      "academicStanding": "Satisfactory"
+    },
+    "userId": "150119003",
+    "name": "Michael Brown",
+    "username": "michael.brown",
+    "password": "student3"
+  },
+  {
+    "year": 3,
+    "gpa": 2.9285714285714284,
+    "advisorId": "ADV001",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "DC",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "CB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "CC",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "AA",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119004",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "DC",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "CC",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 2.9285714285714284,
+      "totalCreditsCompleted": 35,
+      "totalCreditsAttempted": 35,
+      "academicStanding": "Satisfactory"
+    },
+    "userId": "150119004",
+    "name": "Sarah Davis",
+    "username": "sarah.davis",
+    "password": "student4"
+  },
+  {
+    "year": 3,
+    "gpa": 3.1447368421052633,
+    "advisorId": "ADV001",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "CB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2043",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "BA",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119005",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2043",
+          "courseName": "Software Engineering Principles",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 3.1447368421052633,
+      "totalCreditsCompleted": 38,
+      "totalCreditsAttempted": 38,
+      "academicStanding": "Good Standing"
+    },
+    "userId": "150119005",
+    "name": "David Miller",
+    "username": "david.miller",
+    "password": "student5"
+  },
+  {
+    "year": 3,
+    "gpa": 3.1463414634146343,
+    "advisorId": "ADV002",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "AA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "CB",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2043",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "ENG1001",
+        "grade": "CC",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "AA",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119006",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2043",
+          "courseName": "Software Engineering Principles",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "ENG1001",
+          "courseName": "Technical Writing",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 3.1463414634146343,
+      "totalCreditsCompleted": 41,
+      "totalCreditsAttempted": 41,
+      "academicStanding": "Good Standing"
+    },
+    "userId": "150119006",
+    "name": "Emily Wilson",
+    "username": "emily.wilson",
+    "password": "student6"
+  },
+  {
+    "year": 3,
+    "gpa": 2.9714285714285715,
+    "advisorId": "ADV002",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "AA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "CC",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "BA",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "DD",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "CB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "BA",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119007",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "CC",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "DD",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 2.9714285714285715,
+      "totalCreditsCompleted": 35,
+      "totalCreditsAttempted": 35,
+      "academicStanding": "Satisfactory"
+    },
+    "userId": "150119007",
+    "name": "James Moore",
+    "username": "james.moore",
+    "password": "student7"
+  },
+  {
+    "year": 3,
+    "gpa": 3.2285714285714286,
+    "advisorId": "ADV002",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "AA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "CC",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "BB",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "AA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "AA",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119008",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 3.2285714285714286,
+      "totalCreditsCompleted": 35,
+      "totalCreditsAttempted": 35,
+      "academicStanding": "Good Standing"
+    },
+    "userId": "150119008",
+    "name": "Lisa Taylor",
+    "username": "lisa.taylor",
+    "password": "student8"
+  },
+  {
+    "year": 3,
+    "gpa": 3.158536585365854,
+    "advisorId": "ADV002",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "CB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "AA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "CC",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "CB",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2043",
+        "grade": "CB",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "ENG1001",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "BB",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "150119009",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "CB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2043",
+          "courseName": "Software Engineering Principles",
+          "credits": 3,
+          "grade": "CB",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "ENG1001",
+          "courseName": "Technical Writing",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 3.158536585365854,
+      "totalCreditsCompleted": 41,
+      "totalCreditsAttempted": 41,
+      "academicStanding": "Good Standing"
+    },
+    "userId": "150119009",
+    "name": "Robert Anderson",
+    "username": "robert.anderson",
+    "password": "student9"
+  },
+  {
+    "year": 3,
+    "gpa": 2.9078947368421053,
+    "advisorId": "ADV002",
+    "enrolledCourses": [],
+    "completedCourses": [
+      {
+        "courseCode": "CSE1141",
+        "grade": "BB",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "CSE1142",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1051",
+        "grade": "BA",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "PHYS1101",
+        "grade": "BB",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "MATH1052",
+        "grade": "DC",
+        "semester": "Spring2023"
+      },
+      {
+        "courseCode": "CSE2023",
+        "grade": "BA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2033",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "MATH2059",
+        "grade": "AA",
+        "semester": "Fall2023"
+      },
+      {
+        "courseCode": "CSE2043",
+        "grade": "BA",
+        "semester": "Spring2024"
+      },
+      {
+        "courseCode": "HIST1101",
+        "grade": "CC",
+        "semester": "Fall2022"
+      },
+      {
+        "courseCode": "LIT1201",
+        "grade": "DC",
+        "semester": "Spring2023"
+      }
+    ],
+    "transcript": {
+      "studentId": "1501190010",
+      "entries": [
+        {
+          "courseCode": "CSE1141",
+          "courseName": "Computer Programming I",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "CSE1142",
+          "courseName": "Computer Programming II",
+          "credits": 4,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1051",
+          "courseName": "Calculus I",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "PHYS1101",
+          "courseName": "Physics I",
+          "credits": 3,
+          "grade": "BB",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "MATH1052",
+          "courseName": "Calculus II",
+          "credits": 4,
+          "grade": "DC",
+          "semester": "Spring2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2023",
+          "courseName": "Data Structures and Algorithms",
+          "credits": 4,
+          "grade": "BA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2033",
+          "courseName": "System Programming",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "MATH2059",
+          "courseName": "Discrete Mathematics",
+          "credits": 3,
+          "grade": "AA",
+          "semester": "Fall2023",
+          "year": 2023
+        },
+        {
+          "courseCode": "CSE2043",
+          "courseName": "Software Engineering Principles",
+          "credits": 3,
+          "grade": "BA",
+          "semester": "Spring2024",
+          "year": 2024
+        },
+        {
+          "courseCode": "HIST1101",
+          "courseName": "World History",
+          "credits": 3,
+          "grade": "CC",
+          "semester": "Fall2022",
+          "year": 2022
+        },
+        {
+          "courseCode": "LIT1201",
+          "courseName": "Literature",
+          "credits": 3,
+          "grade": "DC",
+          "semester": "Spring2023",
+          "year": 2023
+        }
+      ],
+      "cumulativeGPA": 2.9078947368421053,
+      "totalCreditsCompleted": 38,
+      "totalCreditsAttempted": 38,
+      "academicStanding": "Satisfactory"
+    },
+    "userId": "1501190010",
+    "name": "Maria Thomas",
+    "username": "maria.thomas",
+    "password": "student10"
+  }
+]

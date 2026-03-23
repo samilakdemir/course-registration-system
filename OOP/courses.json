@@ -1,0 +1,155 @@
+[
+  {
+    "courseCode": "CSE1141",
+    "courseName": "Computer Programming I",
+    "credits": 4,
+    "year": 1,
+    "prerequisites": [],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "MATH1051",
+    "courseName": "Calculus I",
+    "credits": 4,
+    "year": 1,
+    "prerequisites": [],
+    "department": "Mathematics"
+  },
+  {
+    "courseCode": "CSE1142",
+    "courseName": "Computer Programming II",
+    "credits": 4,
+    "year": 1,
+    "prerequisites": [
+      "CSE1141"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "MATH1052",
+    "courseName": "Calculus II",
+    "credits": 4,
+    "year": 1,
+    "prerequisites": [
+      "MATH1051"
+    ],
+    "department": "Mathematics"
+  },
+  {
+    "courseCode": "CSE2023",
+    "courseName": "Data Structures and Algorithms",
+    "credits": 4,
+    "year": 2,
+    "prerequisites": [
+      "CSE1142"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE2033",
+    "courseName": "System Programming",
+    "credits": 3,
+    "year": 2,
+    "prerequisites": [
+      "CSE1142"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "MATH2059",
+    "courseName": "Discrete Mathematics",
+    "credits": 3,
+    "year": 2,
+    "prerequisites": [
+      "MATH1051"
+    ],
+    "department": "Mathematics"
+  },
+  {
+    "courseCode": "CSE3063",
+    "courseName": "Object-Oriented Software Design",
+    "credits": 4,
+    "year": 3,
+    "prerequisites": [
+      "CSE1142",
+      "CSE2023"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE3033",
+    "courseName": "Operating Systems",
+    "credits": 4,
+    "year": 3,
+    "prerequisites": [
+      "CSE2033",
+      "CSE2023"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE3055",
+    "courseName": "Database Systems",
+    "credits": 4,
+    "year": 3,
+    "prerequisites": [
+      "CSE2023"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE3043",
+    "courseName": "Software Engineering",
+    "credits": 3,
+    "year": 3,
+    "prerequisites": [
+      "CSE2023",
+      "CSE3063"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE3011",
+    "courseName": "Computer Networks",
+    "credits": 3,
+    "year": 3,
+    "prerequisites": [
+      "CSE2033"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE4074",
+    "courseName": "Machine Learning",
+    "credits": 3,
+    "year": 4,
+    "prerequisites": [
+      "CSE3055",
+      "CSE2023",
+      "MATH2059"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE4088",
+    "courseName": "Advanced Computer Networks",
+    "credits": 4,
+    "year": 4,
+    "prerequisites": [
+      "CSE3033",
+      "CSE3011"
+    ],
+    "department": "Computer Engineering"
+  },
+  {
+    "courseCode": "CSE4099",
+    "courseName": "Senior Project",
+    "credits": 4,
+    "year": 4,
+    "prerequisites": [
+      "CSE3063",
+      "CSE3043"
+    ],
+    "department": "Computer Engineering"
+  }
+]

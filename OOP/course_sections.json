@@ -1,0 +1,114 @@
+[
+  {
+    "sectionId": "CSE3063-01",
+    "courseCode": "CSE3063",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Wilson"
+  },
+  {
+    "sectionId": "CSE3033-01",
+    "courseCode": "CSE3033",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Prof. Brown"
+  },
+  {
+    "sectionId": "CSE3055-01",
+    "courseCode": "CSE3055",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Garcia"
+  },
+  {
+    "sectionId": "CSE3043-01",
+    "courseCode": "CSE3043",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Prof. Lee"
+  },
+  {
+    "sectionId": "CSE3011-01",
+    "courseCode": "CSE3011",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Martinez"
+  },
+  {
+    "sectionId": "CSE4074-01",
+    "courseCode": "CSE4074",
+    "capacity": 20,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Thompson"
+  },
+  {
+    "sectionId": "CSE4088-01",
+    "courseCode": "CSE4088",
+    "capacity": 20,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Wilson"
+  },
+  {
+    "sectionId": "CSE2023-01",
+    "courseCode": "CSE2023",
+    "capacity": 35,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Prof. Brown"
+  },
+  {
+    "sectionId": "CSE2033-01",
+    "courseCode": "CSE2033",
+    "capacity": 35,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Garcia"
+  },
+  {
+    "sectionId": "MATH2059-01",
+    "courseCode": "MATH2059",
+    "capacity": 20,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Prof. Lee"
+  },
+  {
+    "sectionId": "CSE1141-01",
+    "courseCode": "CSE1141",
+    "capacity": 45,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Martinez"
+  },
+  {
+    "sectionId": "CSE1142-01",
+    "courseCode": "CSE1142",
+    "capacity": 45,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Thompson"
+  },
+  {
+    "sectionId": "CSE3063-02",
+    "courseCode": "CSE3063",
+    "capacity": 30,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Dr. Johnson"
+  },
+  {
+    "sectionId": "CSE2023-02",
+    "courseCode": "CSE2023",
+    "capacity": 35,
+    "enrolledStudents": [],
+    "semester": "Fall2024",
+    "instructor": "Prof. Davis"
+  }
+]
