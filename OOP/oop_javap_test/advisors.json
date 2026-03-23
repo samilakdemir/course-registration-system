@@ -1,0 +1,54 @@
+[
+  {
+    "adviseeList": [
+      "150119001",
+      "150119002",
+      "150119003",
+      "150119004",
+      "150119005"
+    ],
+    "maxAdvisees": 20,
+    "advisorType": "Academic",
+    "department": "Computer Engineering",
+    "title": "Dr.",
+    "officeLocation": "B-201",
+    "employeeId": "EMP001",
+    "phoneNumber": "555-0101",
+    "email": "alice.johnson@university.edu",
+    "responsibilities": [
+      "Academic advising and student guidance",
+      "Course registration approval",
+      "Academic progress monitoring"
+    ],
+    "userId": "ADV001",
+    "name": "Dr. Alice Johnson",
+    "username": "dr.johnson",
+    "password": "advisor123"
+  },
+  {
+    "adviseeList": [
+      "150119006",
+      "150119007",
+      "150119008",
+      "150119009",
+      "150119010"
+    ],
+    "maxAdvisees": 20,
+    "advisorType": "Academic",
+    "department": "Computer Engineering",
+    "title": "Prof.",
+    "officeLocation": "B-203",
+    "employeeId": "EMP002",
+    "phoneNumber": "555-0102",
+    "email": "bob.smith@university.edu",
+    "responsibilities": [
+      "Academic advising and student guidance",
+      "Course registration approval",
+      "Academic progress monitoring"
+    ],
+    "userId": "ADV002",
+    "name": "Prof. Bob Smith",
+    "username": "prof.smith",
+    "password": "advisor456"
+  }
+]

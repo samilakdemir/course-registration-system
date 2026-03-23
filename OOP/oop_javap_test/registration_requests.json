@@ -1,0 +1,35 @@
+[
+  {
+    "requestId": "REQ001",
+    "studentId": "150119001",
+    "sectionId": "CSE3063-01",
+    "courseCode": "CSE3063",
+    "courseName": "Object-Oriented Software Design",
+    "status": "PENDING",
+    "requestDate": "2025-08-19 17:57",
+    "advisorComments": "",
+    "studentReason": "Required for my major curriculum"
+  },
+  {
+    "requestId": "REQ002",
+    "studentId": "150119003",
+    "sectionId": "CSE3055-01",
+    "courseCode": "CSE3055",
+    "courseName": "Database Systems",
+    "status": "PENDING",
+    "requestDate": "2025-08-19 17:57",
+    "advisorComments": "",
+    "studentReason": "Interested in this subject area for future career"
+  },
+  {
+    "requestId": "REQ003",
+    "studentId": "150119005",
+    "sectionId": "CSE4074-01",
+    "courseCode": "CSE4074",
+    "courseName": "Machine Learning",
+    "status": "PENDING",
+    "requestDate": "2025-08-19 17:57",
+    "advisorComments": "",
+    "studentReason": "Prerequisite for advanced courses I plan to take"
+  }
+]
